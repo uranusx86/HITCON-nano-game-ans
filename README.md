@@ -1,13 +1,23 @@
 # HITCON-nano-game-ans
+
 this repo is for HITCON 2015 nano game's answer
+
 the Arduino nano's specification is
+
 *MCU: ATmega328
+
 *Digital I/O Pins: 14 (of which 6 provide PWM output)
+
 *Analog InputPins: 8
+
 *Flash: 32 KB,use 2 KB for bootloader
+
 *SRAM: 2 KB
+
 *EEPROM: 1 KB
+
 *Clock Speed: 16 MHz
+
 *USB To Serial: CH340G chip
 
 ## How to install Arduino nano
