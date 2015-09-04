@@ -45,6 +45,9 @@ the Arduino nano's specification is
         python setup.py install
     ```
 
+## Ubuntu Arduino nano install trouble fix
+    https://hitcon.hackpad.com/IoT-nano--Fx9aehf98Y9
+
 ## Play HITCON nano game
 
-question code is already inside, just use **ans.py** to write your answer, and run it to communicate with Arduino nano, if you are correct, it will give you a key
+question code is already inside, just use **ans.py** to write your answer or copy **/question-X/ans.py** to **/ans.py**, and run it to communicate with Arduino nano, if you are correct, it will give you a key
